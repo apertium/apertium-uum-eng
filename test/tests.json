@@ -1,0 +1,10 @@
+{
+    "uum-eng": {
+        "input": "uum-eng-input.txt",
+        "mode": "uum-eng"
+    },
+    "eng-uum": {
+        "input": "eng-uum-input.txt",
+        "mode": "eng-uum"
+    }
+}

@@ -1,0 +1,20 @@
+# COVERAGE TESTS #
+  ## Coverage over eng.sentences (translation) ##
+./coverage-lt.sh ../ling073-uum-eng-corpus/eng.sentences.txt uum-eng.automorf.bin
+  ## Coverage over uum.sentences (transducer) ##
+./coverage-lt.sh ../ling073-uum-eng-corpus/uum.sentences.txt uum-eng.automorf.bin
+
+# SEARCHING # 
+cat ../ling073-uum-eng-corpus/uum.sentences.txt | apertium -d . uum-eng | grep Христос
+cat ../ling073-uum-eng-corpus/uum.sentences.txt | apertium -d . uum-eng
+hfst-expand -c0 uum.automorf.hfst | grep "word <tags>" 
+
+# CHECK ENGLISH TRANSDUCER #
+echo George | apertium -d ../apertium-eng eng-morph
+
+# TRANSLATION #
+cat ../ling073-uum-eng-corpus/eng.sentences.txt | apertium -d ../apertium-eng eng-morp
+cat ../ling073-uum-eng-corpus/uum.lexicalSelectionTest.txt | apertium -d . uum-eng
+
+# Translation in one line #
+cat ../ling073-uum-eng-corpus/uum.sentences.txt | perl -wpne 's/\n/\0\0/g;' | apertium -z -d . -f none uum-eng

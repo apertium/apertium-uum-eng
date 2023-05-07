@@ -1,0 +1,69 @@
+!!!!!!!!!!!!!!!
+!! ATTRIBUTE CATEGORIES
+!!!!!!!!!!!!!!!
+
+number = (ND sg) sg pl sp ND;
+gender = (GD m) m f mf GD;
+det_type = def ind dem itg;
+np_type = top ant cog org pat hyd;
+tense = pres past fut ifi pri fti;
+
+case = nom acc dat gen loc abl;
+preps = NOpr to of at from;
+
+!!!!!!!!!!!!!!!
+!! OUTPUT PATTERNS
+!!!!!!!!!!!!!!!
+
+n: _.gender.number;
+adj: _.gender.number;
+det_default: _.det_type;
+det_def: _.det_type.number;
+pr: _;
+np: _.np_type;
+
+NP: _.number;
+
+!!!!!!!!!!!!!!!
+!! TAG-REWRITE RULES
+!!!!!!!!!!!!!!!
+
+tense > tense : ifi past, pri pres, fti fut;
+
+case > preps : nom NOpr, acc NOpr, dat to, gen of, loc at, abl from;
+
+!!!!!!!!!!!!!!!
+!! MACROS
+!!!!!!!!!!!!!!!
+
+det: (if (1.det_type = def or 1.det_type = ind)
+         1(det_def)
+      else
+         1(det_default));
+
+NP -> n (if (1.case>preps = NOpr)
+            { 1 }
+         else
+            { *(pr)[lemh=1.case>preps] _ 1 } ) |
+
+      np.top (if (1.case>preps = NOpr)
+            { 1 }
+         elseif (1.case = loc) 
+            { in@pr _ 1 }
+         else
+            { *(pr)[lemh=1.case>preps] _ 1 } ) ;
+
+
+!!!!!!!!!!!!!!!
+!! REDUCTION RULES
+!!!!!!!!!!!!!!!
+
+! Example rule:
+! Input:  ^ראש<n><m><sg>/hovud<n><nt><sg>$ ^גדול<adj><m><sg>/stor<adj><m><sg>$
+! Output: ^stor<adj><nt><sg>$ ^hovud<n><nt><sg>$
+! NP -> n.$number adj { 2[gender=1.gender, number=1.number] _ 1 } ;
+
+! Resources:
+! https://wiki.apertium.org/wiki/Apertium-recursive
+! https://wiki.apertium.org/wiki/Apertium-recursive/Formalism
+! https://wiki.apertium.org/wiki/Apertium-recursive/Cookbook

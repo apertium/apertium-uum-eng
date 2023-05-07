@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules glob="star">
+  <!-- example:
+    This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
+    Add your own rules within <rule> here, using the resources below as a guide
+  <rule>
+    <match lemma="wind"/>
+    <match lemma="power" tags="n.*">
+      <select lemma="energía" tags="n.*"/>
+    </match>
+  </rule>
+  -->
+
+ <!-- Rules for stomach/interior -->
+
+ <rule c="If comes after adj /hungry/, means /stomach/">
+      <match lemma="ачның" tags="adj.*"/>
+      <match lemma="ич" tags="n.*">
+        <select lemma="stomach" tags="n.*"/>
+      </match>
+  </rule>
+
+  <rule c="If comes before verb /to growl/, means /stomach/">
+    <match lemma="ич" tags="n.*">
+      <select lemma="stomach" tags="n.*"/>
+    </match>
+      <match lemma="гырылда" tags="v.*"/>
+  </rule>
+
+  <rule weight="0.8" c="default translation of /ич/">
+      <match lemma="ич" tags="n.*">
+        <select lemma="interior" tags="n.*"/>
+       </match>
+   </rule>
+
+  <!-- Rules for honey<dat>/child -->
+
+    <rule c="If comes after numericals, means /child/">
+      <match tags="num.*"/>
+      <match lemma="бала" tags="n.*">
+        <select lemma="child" tags="n.*"/>
+        </match> 
+    </rule>
+
+    <rule weight="0.8" c="default translation of /бала/">
+        <match lemma="бала" tags="n.*">
+            <select lemma="child" tags="n.*"/>
+        </match>
+   </rule>
+
+   <!-- Rules for day/sun -->
+
+   <rule c="If comes after numericals, means /day/">
+        <match tags="num.*"/>
+        <match lemma="кӱн" tags="n.*">
+          <select lemma="day" tags="n.*"/>
+        </match> 
+    </rule>
+
+   <rule c="If comes before verb /to see/, means /sun/">
+     <match lemma="кӱн" tags="n.*">
+       <select lemma="sun" tags="n.*"/></match>
+        <match lemma="кӧр" tags="v.*"/>
+    </rule>
+
+   <rule weight="0.8" c="default translation of кӱн">
+        <match lemma="кӱн" tags="n.*">
+            <select lemma="day" tags="n.*"/>
+        </match>
+   </rule>
+
+</rules>
+
+<!--
+Resources:
+    https://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
+    https://wiki.apertium.org/wiki/Constraint-based_lexical_selection
+    https://wiki.apertium.org/wiki/Lexical_selection
+    https://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
+-->

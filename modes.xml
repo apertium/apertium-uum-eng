@@ -11,11 +11,8 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1">
         <file name="uum-eng.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="uum-eng.prob"/>
       </program>
       <program name="lsx-proc">
         <file name="uum-eng.autoseq.bin"/>

@@ -11,7 +11,7 @@
       </program>
 
 
-      <program name="cg-proc -w -1">
+      <program name="cg-proc -w -1 -n">
         <file name="uum-eng.rlx.bin"/>
       </program>
       <program name="lsx-proc">

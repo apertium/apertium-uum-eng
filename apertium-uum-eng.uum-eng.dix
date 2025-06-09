@@ -383,6 +383,7 @@
       <!-- Determiners -->
       <e><p><l>бу<s n="det"/></l>       <r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l></l>              <r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l>              <r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
       
       <!-- Conjunctions -->
 

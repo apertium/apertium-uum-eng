@@ -126,7 +126,7 @@
        <e><p><l>келиш<s n="n"/></l>      <r>coming<s n="n"/></r></p></e>
        <e><p><l>оҗа<s n="n"/></l>        <r>man<s n="n"/></r></p></e>
        <e><p><l>пул<s n="n"/></l>        <r>spangle<s n="n"/></r></p></e>
-       <e><p><l>хапӱсӱн<s n="n"/></l>    <r>door<s n="n"/></r></p></e>
+       <e><p><l>хапӱсӱн<s n="n"/></l>    <r>door<s n="n"/></r></p></e><!-- JNW: not хапӱ ? -->
        <e><p><l>җеннет<s n="n"/></l>     <r>heaven<s n="n"/></r></p></e>
        <e><p><l>йундуз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
        <e><p><l>учхун<s n="n"/></l>      <r>spark<s n="n"/></r></p></e>
@@ -215,7 +215,7 @@
       <e><p><l>кигичи<s n="n"/></l>     <r>younger<s n="n"/></r></p></e>
       <e><p><l>тахт<s n="n"/></l>       <r>throne<s n="n"/></r></p></e>
       <e><p><l>халх<s n="n"/></l>       <r>people<s n="n"/></r></p></e>
-      <e><p><l>халхн<s n="n"/></l>       <r>people<s n="n"/></r></p></e>
+      <e><p><l>халхн<s n="n"/></l>       <r>people<s n="n"/></r></p></e><!-- JNW: this looks wrong? -->
       <e><p><l>хоз<s n="n"/></l>        <r>lamb<s n="n"/></r></p></e>
       <e><p><l>падышах<s n="n"/></l>    <r>king<s n="n"/></r></p></e>
       <e><p><l>бӱльбӱль<s n="n"/></l>   <r>nightingale<s n="n"/></r></p></e>

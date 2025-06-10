@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>АаБбВвГгҐґҒғДдЕеЁёЖжҖҗЗзИиЙйКкЛлМмНнҢңОоӦӧΘθПпРрСсТтУуӰӱФфХхЧчШшЩщЬьЫыІіЇїЭэЦцʼ</alphabet>
+  <alphabet>АаБбВвГгҐґҒғДдЕеЁёЖжҖҗЗзИиЙйКкЛлМмНнҢңОоӦӧΘθПпРрСсТтУуӰӱФфХхЧчШшЩщЬьЫыІіЇїЭэЦцʼAaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->

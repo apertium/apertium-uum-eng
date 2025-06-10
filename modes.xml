@@ -42,6 +42,14 @@
     </pipeline>
   </mode>
 
+  <mode name="uum-eng-bilsearch">
+    <pipeline>
+      <program name="lt-paradigm --sort">
+        <file name="uum-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <!-- eng → uum -->
 
   <mode name="eng-uum" install="yes" gendebug="yes">
@@ -83,6 +91,14 @@
       </program>
       <program name="lt-proc -p">
         <file name="eng-uum.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-uum-bilsearch">
+    <pipeline>
+      <program name="lt-paradigm --sort">
+        <file name="eng-uum.autobil.bin"/>
       </program>
     </pipeline>
   </mode>

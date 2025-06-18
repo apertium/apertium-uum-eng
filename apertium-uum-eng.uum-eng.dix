@@ -223,6 +223,7 @@
       <e><p><l>җан<s n="n"/></l>        <r>soul<s n="n"/></r></p></e>
       <e><p><l>шаэр<s n="n"/></l>       <r>city<s n="n"/></r></p></e>
       <e><p><l>мирон<s n="n"/></l>      <r>myrrh<s n="n"/></r></p></e>
+      <e><p><l>хой<s n="n"/></l>        <r>sheep<s n="n"/></r></p></e>
 
       <!-- Proper Names + Locations, As Added By Alina  -->
       <e><p><l>Йосиф<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>          <r>Joseph<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -236,7 +237,7 @@
       <e><p><l>Джордж<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>         <r>George<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
       <!-- Duplicate word #4 Washington (name)/Washington (location) -->
       <e><p><l>Вашингтон<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/></l>     <r>Washington<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
-      <e><p><l>Вашингтон<s n="top"/><s n="sg"/></l>                           <r>Washington<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>Вашингтон<s n="np"/><s n="top"/><s n="sg"/></l>                <r>Washington<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Йегипит<s n="np"/><s n="top"/><s n="sg"/></l>                  <r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Вифлейем<s n="np"/><s n="top"/><s n="sg"/></l>                 <r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Саша<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>           <r>Sasha<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
@@ -292,7 +293,6 @@
       <!-- Verbs -->
       <e><p><l>ди<s n="v"/></l>     <r>speak<s n="vblex"/></r></p></e>
       <e><p><l>сар<s n="v"/></l>    <r>wrap<s n="vblex"/></r></p></e>
-      <e><p><l>хой<s n="v"/></l>    <r>put<s n="vblex"/></r></p></e>
       <e><p><l>йелир<s n="v"/></l>  <r>approach<s n="vblex"/></r></p></e>
       <e><p><l>эниш<s n="v"/></l>   <r>descend<s n="vblex"/></r></p></e>
       <e><p><l>кийдир<s n="v"/></l> <r>put<s n="vblex"/></r></p></e>
@@ -327,7 +327,7 @@
       <e><p><l>ах<s n="v"/></l>     <r>flow<s n="vblex"/></r></p></e>
       <e><p><l>бул<s n="v"/></l>    <r>find<s n="vblex"/></r></p></e>
       <e><p><l>була<s n="v"/></l>   <r>find<s n="vblex"/></r></p></e>
-      <e><p><l>хой<s n="v"/></l>    <r>put<s n="vblex"/></r></p></e>
+      <e><p><l>хой<s n="v"/><s n="tv"/></l>    <r>put<s n="vblex"/></r></p></e>
       <e><p><l>хурхун<s n="v"/></l> <r>scare<s n="vblex"/></r></p></e>
       <e><p><l>эн<s n="v"/></l>     <r>descend<s n="vblex"/></r></p></e>
       <e><p><l>кöрÿн<s n="v"/></l>  <r>seem<s n="vblex"/></r></p></e>

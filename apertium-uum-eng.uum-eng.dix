@@ -159,12 +159,15 @@
       <e><p><l>ан<s n="n"/></l>         <r>moment<s n="n"/></r></p></e>
       <e><p><l>ана<s n="n"/></l>        <r>mother<s n="n"/></r></p></e>
       <e><p><l>ат<s n="n"/></l>         <r>horse<s n="n"/></r></p></e>
+      <e><p><l>ат<s n="n"/></l>         <r>name<s n="n"/></r></p></e>
+      <e><p><l>ата<s n="n"/></l>        <r>father<s n="n"/></r></p></e>
+      <e><p><l>ата<s n="n"/></l>        <r>ancestor<s n="n"/></r></p></e>
       <e><p><l>алтын<s n="n"/></l>      <r>gold<s n="n"/></r></p></e>
       <e><p><l>базар<s n="n"/></l>      <r>market<s n="n"/></r></p></e>
       <e><p><l>бал<s n="n"/></l>        <r>honey<s n="n"/></r></p></e>
       <e><p><l>бала<s n="n"/></l>       <r>child<s n="n"/></r></p></e>
       <e><p><l>бахчы<s n="n"/></l>      <r>garden<s n="n"/></r></p></e>
-      <e><p><l>гӱль<s n="n"/></l>     <r>flower<s n="n"/></r></p></e>
+      <e><p><l>гӱль<s n="n"/></l>       <r>flower<s n="n"/></r></p></e>
       <e><p><l>завот<s n="n"/></l>      <r>factory<s n="n"/></r></p></e>
       <!-- Duplicate word #1 Interior/Stomach -->
       <e><p><l>ич<s n="n"/></l>         <r>stomach<s n="n"/></r></p></e>
@@ -343,6 +346,9 @@
       <e><p><l>гырылда<s n="v"/><s n="iv"/></l> <r>growl<s n="vblex"/></r></p></e>
       <e><p><l>хыр<s n="v"/></l> <r>kill<s n="vblex"/></r></p></e>
       <e><p><l>тʼетир<s n="v"/></l> <r>bring<s n="vblex"/></r></p></e>
+      <e><p><l>ат<s n="v"/><s n="iv"/></l> <r>jump<b/>across<s n="vblex"/></r></p></e>
+      <e><p><l>ат<s n="v"/><s n="tv"/></l> <r>throw<s n="vblex"/></r></p></e>
+      <e><p><l>ат<s n="v"/><s n="tv"/></l> <r>shoot<s n="vblex"/></r></p></e>
       <!-- Pronouns -->
       <!--
       <e><p><l>бир<s n="prn"/></l>      <r>alone<s n="prn"/></r></p></e>

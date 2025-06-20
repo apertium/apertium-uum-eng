@@ -239,7 +239,7 @@
       <e><p><l>Джонатан<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>       <r>Jonathan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>Джордж<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>         <r>George<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
       <!-- Duplicate word #4 Washington (name)/Washington (location) -->
-      <e><p><l>Вашингтон<s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/></l>     <r>Washington<s n="np"/><s n="cog"/><s n="sg"/></r></p></e>
+      <e><p><l>Вашингтон<s n="np"/><s n="cog"/><s n="mf"/></l>     <r>Washington<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Вашингтон<s n="np"/><s n="top"/><s n="sg"/></l>                <r>Washington<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Йегипит<s n="np"/><s n="top"/><s n="sg"/></l>                  <r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Вифлейем<s n="np"/><s n="top"/><s n="sg"/></l>                 <r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>

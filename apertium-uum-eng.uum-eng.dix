@@ -229,25 +229,23 @@
       <e><p><l>хой<s n="n"/></l>        <r>sheep<s n="n"/></r></p></e>
 
       <!-- Proper Names + Locations, As Added By Alina  -->
-      <e><p><l>Йосиф<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>          <r>Joseph<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Христос<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>        <r>Christ<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Панайана<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></l>       <r>Mary<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>Ирод<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>           <r>Herod<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Михаил<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>         <r>Michael<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Алина<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></l>          <r>Alina<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>Саша<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>           <r>Sasha<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Джонатан<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>       <r>Jonathan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Йосиф<s n="np"/><s n="ant"/><s n="m"/></l>          <r>Joseph<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Христос<s n="np"/><s n="ant"/><s n="m"/></l>        <r>Christ<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Панайана<s n="np"/><s n="ant"/><s n="f"/></l>       <r>Mary<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>Ирод<s n="np"/><s n="ant"/><s n="m"/></l>           <r>Herod<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Михаил<s n="np"/><s n="ant"/><s n="m"/></l>         <r>Michael<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Алина<s n="np"/><s n="ant"/><s n="f"/></l>          <r>Alina<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>Саша<s n="np"/><s n="ant"/><s n="m"/></l>           <r>Sasha<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Джонатан<s n="np"/><s n="ant"/><s n="m"/></l>       <r>Jonathan<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>Джордж<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>         <r>George<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
       <!-- Duplicate word #4 Washington (name)/Washington (location) -->
       <e><p><l>Вашингтон<s n="np"/><s n="cog"/><s n="mf"/></l>     <r>Washington<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-      <e><p><l>Вашингтон<s n="np"/><s n="top"/><s n="sg"/></l>                <r>Washington<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>Йегипит<s n="np"/><s n="top"/><s n="sg"/></l>                  <r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>Вифлейем<s n="np"/><s n="top"/><s n="sg"/></l>                 <r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-      <e><p><l>Саша<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>           <r>Sasha<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Ашых<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>           <r>Ashiq<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>Ғариб<s n="np"/><s n="cog"/><s n="m"/><s n="sg"/></l>          <r>Qarib<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-
-      <e><p><l>җан<s n="np"/><s n="mf"/><s n="sg"/></l>                       <r>soul<s n="n"/></r></p></e>
+      <e><p><l>Вашингтон<s n="np"/><s n="top"/></l>                <r>Washington<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>Йегипит<s n="np"/><s n="top"/></l>                  <r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>Вифлейем<s n="np"/><s n="top"/></l>                 <r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>Ашых<s n="np"/><s n="ant"/><s n="m"/></l>           <r>Ashiq<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Ғариб<s n="np"/><s n="cog"/><s n="m"/></l>          <r>Qarib<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>җан<s n="np"/><s n="mf"/></l>                       <r>soul<s n="n"/></r></p></e>
 
       <!-- Adjectives  -->
       <e><p><l>йарых<s n="adj"/></l>    <r>light<s n="adj"/><s n="sint"/></r></p></e>

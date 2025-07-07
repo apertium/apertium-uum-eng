@@ -344,7 +344,8 @@
       <e><p><l>гырылда<s n="v"/><s n="iv"/></l> <r>growl<s n="vblex"/></r></p></e>
       <e><p><l>хыр<s n="v"/></l> <r>kill<s n="vblex"/></r></p></e>
       <e><p><l>тʼетир<s n="v"/></l> <r>bring<s n="vblex"/></r></p></e>
-      <e><p><l>ат<s n="v"/><s n="iv"/></l> <r>jump<b/>across<s n="vblex"/></r></p></e>
+      <e><p><l>ат<s n="v"/><s n="iv"/></l> <r>jump<g><b/>across</g><s n="vblex"/></r></p></e>
+      <e><p><l>ат<s n="v"/><s n="iv"/></l> <r>jump<g><b/>over</g><s n="vblex"/></r></p></e>
       <e><p><l>ат<s n="v"/><s n="tv"/></l> <r>throw<s n="vblex"/></r></p></e>
       <e><p><l>ат<s n="v"/><s n="tv"/></l> <r>shoot<s n="vblex"/></r></p></e>
       <!-- Pronouns -->

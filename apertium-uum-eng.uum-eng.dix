@@ -356,9 +356,8 @@
       <e><p><l>алай<s n="prn"/></l>     <r>all<s n="prn"/></r></p></e>
       <e><p><l>алаймыз<s n="prn"/></l>  <r>we all<s n="prn"/></r></p></e>
       <e><p><l>сен<s n="prn"/></l>      <r>you<s n="prn"/></r></p></e>
-      <e><p><l>не<s n="prn"/></l>       <r>what<s n="prn"/><s n="det"/>`</r></p></e>
-      <e><p><l>бу[dem]<s n="prn"/></l>  <r>this<s n="prn"/><s n="det"/></r></p></e>
-      <e><p><l>бу[dem]<s n="prn"/></l>  <r>which<s n="prn"/><s n="det"/></r></p></e>
+      <e><p><l>не<s n="prn"/><s n="itg"/></l>       <r>what<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>бу<s n="prn"/><s n="dem"/></l>  <r>this<s n="prn"/><s n="dem"/></r></p></e>
       <e><p><l>мен<s n="prn"/></l>      <r>me<s n="prn"/></r></p></e>
       <e><p><l>биз<s n="prn"/></l>      <r>we<s n="prn"/></r></p></e>
       <e><p><l>ӧле<s n="prn"/></l>      <r>such<s n="prn"/></r></p></e>
@@ -367,7 +366,7 @@
       <e><p><l>о<s n="prn"/></l>        <r>she<s n="prn"/></r></p></e>
       <e><p><l>о<s n="prn"/></l>        <r>he<s n="prn"/></r></p></e>
       -->
-      <e><p><l>о[dem]<s n="prn"/></l>   <r>that<s n="prn"/><s n="det"/></r></p></e>
+      <e><p><l>о<s n="prn"/><s n="dem"/></l>   <r>that<s n="prn"/><s n="dem"/></r></p></e>
       <e><p><l>эр<s n="prn"/></l>       <r>every<s n="prn"/></r></p></e>
       <e><p><l>нас<s n="prn"/></l>      <r>which<s n="prn"/></r></p></e>
       <e><p><l>нас<s n="prn"/></l>      <r>what<s n="prn"/></r></p></e>
@@ -384,7 +383,8 @@
       <e><p><l>тʼи<s n="adv"/></l>      <r>suddenly<s n="adv"/></r></p></e>
 
       <!-- Determiners -->
-      <e><p><l>бу<s n="det"/></l>       <r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>бу<s n="det"/><s n="dem"/></l>       <r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>о<s n="det"/><s n="dem"/></l>        <r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l></l>              <r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l></l>              <r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
       

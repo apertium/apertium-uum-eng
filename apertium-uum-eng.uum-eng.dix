@@ -126,7 +126,7 @@
       <e><p><l>келиш<s n="n"/></l>      <r>coming<s n="n"/></r></p></e>
       <e><p><l>оҗа<s n="n"/></l>        <r>man<s n="n"/></r></p></e>
       <e><p><l>пул<s n="n"/></l>        <r>spangle<s n="n"/></r></p></e>
-      <e><p><l>хапу<s n="n"/></l>    <r>door<s n="n"/></r></p></e>
+      <e><p><l>хапу<s n="n"/></l>       <r>door<s n="n"/></r></p></e>
       <e><p><l>җеннет<s n="n"/></l>     <r>heaven<s n="n"/></r></p></e>
       <e><p><l>йундуз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
       <e><p><l>учхун<s n="n"/></l>      <r>spark<s n="n"/></r></p></e>
@@ -147,14 +147,19 @@
       <e><p><l>кӧй<s n="n"/></l>        <r>village<s n="n"/></r></p></e>
       <e><p><l>гӧнлӱм<s n="n"/></l>     <r>heart<s n="n"/></r></p></e>
       <e><p><l>севда<s n="n"/></l>      <r>love<s n="n"/></r></p></e>
-      <e><p><l>чырайы<s n="n"/></l>     <r>face<s n="n"/></r></p></e>
+      <e><p><l>чырай<s n="n"/></l>      <r>face<s n="n"/></r></p></e>
+      <e><p><l>чырай<s n="n"/></l>      <r>expression<s n="n"/></r></p></e>
+      <e><p><l>чырай<s n="n"/></l>      <r>complexion<s n="n"/></r></p></e>
       <e><p><l>айахташ<s n="n"/></l>    <r>friend<s n="n"/></r></p></e>
-      <e><p><l>айакташ<s n="n"/></l>    <r>friend<s n="n"/></r></p></e>
       <e><p><l>үй<s n="n"/></l>         <r>house<s n="n"/></r></p></e>
-      <e><p><l>абла<s n="n"/></l>       <r>(older) sister<s n="n"/></r></p></e>
-      <e><p><l>аға<s n="n"/></l>        <r>(older) brother<s n="n"/></r></p></e>
+      <e><p><l>абла<s n="n"/></l>       <r>older<b/>sister<s n="n"/></r></p></e>
+      <e><p><l>абла<s n="n"/></l>       <r>sister<s n="n"/></r></p></e>
+      <e><p><l>аға<s n="n"/></l>        <r>older<b/>brother<s n="n"/></r></p></e>
+      <e><p><l>аға<s n="n"/></l>        <r>brother<s n="n"/></r></p></e>
       <e><p><l>адам<s n="n"/></l>       <r>person<s n="n"/></r></p></e>
       <e><p><l>ай<s n="n"/></l>         <r>moon<s n="n"/></r></p></e>
+      <e><p><l>ай<s n="n"/></l>         <r>month<s n="n"/></r></p></e>
+      <e><p><l>ай<s n="n"/></l>         <r>saint<s n="n"/></r></p></e>
       <e><p><l>аллах<s n="n"/></l>      <r>God<s n="n"/></r></p></e>
       <e><p><l>ан<s n="n"/></l>         <r>moment<s n="n"/></r></p></e>
       <e><p><l>ана<s n="n"/></l>        <r>mother<s n="n"/></r></p></e>
@@ -162,6 +167,11 @@
       <e><p><l>ат<s n="n"/></l>         <r>name<s n="n"/></r></p></e>
       <e><p><l>ата<s n="n"/></l>        <r>father<s n="n"/></r></p></e>
       <e><p><l>ата<s n="n"/></l>        <r>ancestor<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>remuneration<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>salary<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>price<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>cost<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>value<s n="n"/></r></p></e>
       <e><p><l>алтын<s n="n"/></l>      <r>gold<s n="n"/></r></p></e>
       <e><p><l>базар<s n="n"/></l>      <r>market<s n="n"/></r></p></e>
       <e><p><l>бал<s n="n"/></l>        <r>honey<s n="n"/></r></p></e>

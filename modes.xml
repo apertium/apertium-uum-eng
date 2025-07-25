@@ -129,5 +129,13 @@
     </pipeline>
   </mode>
 
+  <mode name="eng-uum-embeddings">
+    <pipeline>
+      <program name="hfst-proc -W">
+        <file name="eng-uum.embeddings.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
 </modes>
 

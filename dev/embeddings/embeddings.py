@@ -38,6 +38,18 @@ print("loaded model")
 threshold = 0.2
 topn = 10
 
+def spaced(word):
+    match = re.match(r"^(.*?)(<.*?>)?$", word)
+    if match:
+        base = match.group(1)
+        tag = match.group(2) if match.group(2) else ""
+    else:
+        base = word
+        tag = ""
+
+    spaced_word = " ".join(base)
+    return spaced_word + tag
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     for word in english_words:
         base_word = re.sub(r"<.*?>", "", word)
@@ -47,4 +59,4 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 if score >= threshold:
                     for candidate in english_words:
                         if re.sub(r"<.*?>", "", candidate) == sim_word and len(sim_word) > 1:
-                            f.write(f"{word}:{candidate}\t{score}\n")
+                            f.write(f"{spaced(word)}:{spaced(candidate)}\t{score}\n")

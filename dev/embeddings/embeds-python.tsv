@@ -1,189 +1,189 @@
-come<vblex>:go<vblex>	0.7895439863204956
-come<vblex>:coming<n>	0.7763837575912476
-come<vblex>:bring<vblex>	0.7013301253318787
-which<prn>:that<prn>	0.7640234231948853
-see<vblex>:find<vblex>	0.7059271335601807
-see<vblex>:tell<vblex>	0.6879336833953857
-see<vblex>:hear<vblex>	0.6845276951789856
-find<vblex>:see<vblex>	0.7059271931648254
-ten<num>:five<num>	0.9125428795814514
-ten<num>:fifteen<num>	0.9117354154586792
-ten<num>:nine<num>	0.9047266840934753
-ten<num>:twelve<num>	0.9006587862968445
-ten<num>:eleven<num>	0.8991170525550842
-hundred<num>:thousand<num>	0.8952497243881226
-put<vblex>:bring<vblex>	0.7377716302871704
-four<num>:three<num>	0.9620063304901123
-four<num>:five<num>	0.9609165191650391
-four<num>:nine<num>	0.90550297498703
-four<num>:two<num>	0.8977879285812378
-four<num>:twelve<num>	0.8592464923858643
-four<num>:ten<num>	0.8544851541519165
-four<num>:eleven<num>	0.8499352335929871
-speak<vblex>:hear<vblex>	0.7151004672050476
-thing<n>:this<det>	0.7328931093215942
-thing<n>:this<prn>	0.7328931093215942
-person<n>:man<n>	0.7203925848007202
-cat<n>:dog<n>	0.7502297759056091
-manger<n>:dog<n>	0.5219069719314575
-frighten<vblex>:scare<vblex>	0.7121139168739319
-child<n>:mother<n>	0.7654839754104614
-leave<vblex>:take<vblex>	0.7068529725074768
-leave<vblex>:go<vblex>	0.661321222782135
-Joseph<np>:Michael<np>	0.786504328250885
-man<n>:person<n>	0.7203925848007202
-mother<n>:father<n>	0.88395094871521
-mother<n>:son<n>	0.7833118438720703
-mother<n>:child<n>	0.7654840350151062
-coming<n>:come<vblex>	0.7763836979866028
-heart<n>:soul<n>	0.6728978753089905
-fifteen<num>:fourteen<num>	0.9565398693084717
-fifteen<num>:sixteen<num>	0.9517096281051636
-fifteen<num>:twelve<num>	0.9432223439216614
-fifteen<num>:eighteen<num>	0.9403795599937439
-fifteen<num>:thirteen<num>	0.93665611743927
-what<prn>:how<adv>	0.7551453709602356
-twelve<num>:fourteen<num>	0.95369553565979
-twelve<num>:thirteen<num>	0.948336660861969
-twelve<num>:fifteen<num>	0.9432224035263062
-twelve<num>:sixteen<num>	0.9413931965827942
-twelve<num>:nine<num>	0.9341481924057007
-twelve<num>:eleven<num>	0.9312081933021545
-twelve<num>:eighteen<num>	0.9201871156692505
-nineteen<num>:eighteen<num>	0.9326024651527405
-nineteen<num>:fourteen<num>	0.929770290851593
-nineteen<num>:seventeen<num>	0.9278789758682251
-nineteen<num>:sixteen<num>	0.9228222370147705
-nineteen<num>:fifteen<num>	0.9193578362464905
-nineteen<num>:thirteen<num>	0.9115200042724609
-nine<num>:five<num>	0.9453787803649902
-nine<num>:twelve<num>	0.9341481924057007
-nine<num>:eleven<num>	0.9333321452140808
-nine<num>:fourteen<num>	0.9173673987388611
-nine<num>:thirteen<num>	0.9092018008232117
-nine<num>:four<num>	0.9055030345916748
-nine<num>:ten<num>	0.9047265648841858
-younger<n>:elder<n>	0.6966567635536194
-all<prn>:many<adv>	0.7592363357543945
-thousand<num>:hundred<num>	0.8952497839927673
-scare<vblex>:frighten<vblex>	0.7121138572692871
-very<adv>:pretty<adj>	0.8239924311637878
-doors<n>:door<n>	0.8640785217285156
-year<n>:day<n>	0.7446247935295105
-eleven<num>:nine<num>	0.9333320260047913
-eleven<num>:twelve<num>	0.9312081933021545
-eleven<num>:fourteen<num>	0.9304139018058777
-eleven<num>:thirteen<num>	0.9277766942977905
-eleven<num>:fifteen<num>	0.9203646779060364
-eleven<num>:sixteen<num>	0.9147563576698303
-eleven<num>:eighteen<num>	0.9024987816810608
-eleven<num>:ten<num>	0.8991169929504395
-we<prn>:they<prn>	0.6963076591491699
-end<n>:start<vblex>	0.7610544562339783
-neighbor<n>:friend<n>	0.6556114554405212
-three<num>:four<num>	0.9620062708854675
-three<num>:five<num>	0.9465795159339905
-three<num>:two<num>	0.943717360496521
-three<num>:nine<num>	0.8837621808052063
-three<num>:ten<num>	0.8479586839675903
-three<num>:twelve<num>	0.8379465937614441
-three<num>:eleven<num>	0.8348283171653748
-son<n>:father<n>	0.8652018904685974
-son<n>:mother<n>	0.7833119034767151
-seventeen<num>:nineteen<num>	0.9278790354728699
-seventeen<num>:fourteen<num>	0.9237464070320129
-seventeen<num>:fifteen<num>	0.9102599620819092
-seventeen<num>:eighteen<num>	0.9087538719177246
-seventeen<num>:sixteen<num>	0.9087271094322205
-seventeen<num>:thirteen<num>	0.9041071534156799
-seventeen<num>:eleven<num>	0.8945796489715576
-pretty<adj>:very<adv>	0.8239924907684326
-bring<vblex>:put<vblex>	0.73777174949646
-sing<vblex>:song<n>	0.6127372980117798
-two<num>:three<num>	0.943717360496521
-two<num>:four<num>	0.8977878093719482
-two<num>:five<num>	0.8590497970581055
-two<num>:nine<num>	0.7893900871276855
-two<num>:eleven<num>	0.7596343755722046
-sky<n>:moon<n>	0.648689329624176
-sun<n>:moon<n>	0.6621445417404175
-sixteen<num>:fourteen<num>	0.9649190902709961
-sixteen<num>:eighteen<num>	0.9559309482574463
-sixteen<num>:fifteen<num>	0.9517096877098083
-sixteen<num>:thirteen<num>	0.9451066255569458
-sixteen<num>:twelve<num>	0.9413931965827942
-sixteen<num>:nineteen<num>	0.9228222966194153
-hear<vblex>:speak<vblex>	0.7151004076004028
-hear<vblex>:see<vblex>	0.6845276355743408
-shepherd<n>:sheep<n>	0.6627037525177002
-such<prn>:this<det>	0.6898550391197205
-such<prn>:this<prn>	0.6898550391197205
-such<prn>:all<prn>	0.6613214015960693
-many<adv>:all<prn>	0.7592362761497498
-shoot<vblex>:kill<vblex>	0.679993212223053
-day<n>:year<n>	0.7446247935295105
-start<vblex>:end<n>	0.7610543966293335
-George<np>:Michael<np>	0.7835434675216675
-time<n>:moment<n>	0.7458726167678833
-time<n>:day<n>	0.7146848440170288
-go<vblex>:come<vblex>	0.7895439863204956
-go<vblex>:stay<vblex>	0.706595242023468
-go<vblex>:take<vblex>	0.70622718334198
-elder<n>:younger<n>	0.6966568231582642
-elder<n>:father<n>	0.6388278603553772
-stay<vblex>:go<vblex>	0.706595242023468
-here<adv>:there<adv>	0.6862996220588684
-tell<vblex>:say<vblex>	0.7224746346473694
-door<n>:doors<n>	0.8640784025192261
-emerge<vblex>:come<vblex>	0.6762157082557678
-eighteen<num>:sixteen<num>	0.9559309482574463
-eighteen<num>:fourteen<num>	0.9499812126159668
-eighteen<num>:fifteen<num>	0.9403795599937439
-eighteen<num>:nineteen<num>	0.9326024651527405
-eighteen<num>:thirteen<num>	0.9270961284637451
-eighteen<num>:twelve<num>	0.9201871156692505
-every<prn>:one<num>	0.6788016557693481
-this<det>:thing<n>	0.732893168926239
-this<det>:that<prn>	0.6952489614486694
-this<det>:such<prn>	0.6898550987243652
-fourteen<num>:sixteen<num>	0.9649191498756409
-fourteen<num>:thirteen<num>	0.9627732038497925
-fourteen<num>:fifteen<num>	0.9565398693084717
-fourteen<num>:twelve<num>	0.9536956548690796
-fourteen<num>:eighteen<num>	0.9499812722206116
-fourteen<num>:eleven<num>	0.9304139614105225
-fourteen<num>:nineteen<num>	0.9297704100608826
-how<adv>:what<prn>	0.7551454305648804
-one<num>:two<num>	0.7160369157791138
-one<num>:three<num>	0.7104451656341553
-one<num>:four<num>	0.6978967189788818
-one<num>:every<prn>	0.6788015961647034
-one<num>:five<num>	0.676530122756958
-take<vblex>:leave<vblex>	0.7068529725074768
-take<vblex>:go<vblex>	0.70622718334198
-take<vblex>:bring<vblex>	0.7023230791091919
-that<prn>:which<prn>	0.7640235424041748
-place<n>:put<vblex>	0.6825528740882874
-and<cnjcoo>:which<prn>	0.6869358420372009
-five<num>:four<num>	0.9609165787696838
-five<num>:three<num>	0.9465795159339905
-five<num>:nine<num>	0.9453787207603455
-five<num>:ten<num>	0.912542998790741
-five<num>:twelve<num>	0.8914765119552612
-five<num>:eleven<num>	0.8816874027252197
-five<num>:fifteen<num>	0.8615737557411194
-thirteen<num>:fourteen<num>	0.9627731442451477
-thirteen<num>:twelve<num>	0.9483366012573242
-thirteen<num>:sixteen<num>	0.9451066851615906
-thirteen<num>:fifteen<num>	0.9366561770439148
-thirteen<num>:eleven<num>	0.9277766346931458
-thirteen<num>:eighteen<num>	0.9270960688591003
-thirteen<num>:nineteen<num>	0.9115200638771057
-lamb<n>:sheep<n>	0.6872789263725281
-say<vblex>:tell<vblex>	0.7224746346473694
-father<n>:mother<n>	0.8839508295059204
-father<n>:son<n>	0.8652018308639526
-this<prn>:thing<n>	0.732893168926239
-this<prn>:that<prn>	0.6952489614486694
-this<prn>:such<prn>	0.6898550987243652
-moment<n>:time<n>	0.7458726763725281
+t w o<num>:t h r e e<num>	0.943717360496521
+t w o<num>:f o u r<num>	0.8977878093719482
+t w o<num>:f i v e<num>	0.8590497970581055
+t w o<num>:n i n e<num>	0.7893900871276855
+t w o<num>:e l e v e n<num>	0.7596343755722046
+f o u r t e e n<num>:s i x t e e n<num>	0.9649191498756409
+f o u r t e e n<num>:t h i r t e e n<num>	0.9627732038497925
+f o u r t e e n<num>:f i f t e e n<num>	0.9565398693084717
+f o u r t e e n<num>:t w e l v e<num>	0.9536956548690796
+f o u r t e e n<num>:e i g h t e e n<num>	0.9499812722206116
+f o u r t e e n<num>:e l e v e n<num>	0.9304139614105225
+f o u r t e e n<num>:n i n e t e e n<num>	0.9297704100608826
+e l d e r<n>:y o u n g e r<n>	0.6966568231582642
+e l d e r<n>:f a t h e r<n>	0.6388278603553772
+w h i c h<prn>:t h a t<prn>	0.7640234231948853
+w e<prn>:t h e y<prn>	0.6963076591491699
+m o m e n t<n>:t i m e<n>	0.7458726763725281
+m a n<n>:p e r s o n<n>	0.7203925848007202
+s u n<n>:m o o n<n>	0.6621445417404175
+b r i n g<vblex>:p u t<vblex>	0.73777174949646
+s h o o t<vblex>:k i l l<vblex>	0.679993212223053
+d o o r<n>:d o o r s<n>	0.8640784025192261
+s o n<n>:f a t h e r<n>	0.8652018904685974
+s o n<n>:m o t h e r<n>	0.7833119034767151
+h o w<adv>:w h a t<prn>	0.7551454305648804
+t i m e<n>:m o m e n t<n>	0.7458726167678833
+t i m e<n>:d a y<n>	0.7146848440170288
+l a m b<n>:s h e e p<n>	0.6872789263725281
+p r e t t y<adj>:v e r y<adv>	0.8239924907684326
+m a n y<adv>:a l l<prn>	0.7592362761497498
+a n d<cnjcoo>:w h i c h<prn>	0.6869358420372009
+e m e r g e<vblex>:c o m e<vblex>	0.6762157082557678
+f a t h e r<n>:m o t h e r<n>	0.8839508295059204
+f a t h e r<n>:s o n<n>	0.8652018308639526
+h e a r<vblex>:s p e a k<vblex>	0.7151004076004028
+h e a r<vblex>:s e e<vblex>	0.6845276355743408
+d o o r s<n>:d o o r<n>	0.8640785217285156
+h e r e<adv>:t h e r e<adv>	0.6862996220588684
+t e n<num>:f i v e<num>	0.9125428795814514
+t e n<num>:f i f t e e n<num>	0.9117354154586792
+t e n<num>:n i n e<num>	0.9047266840934753
+t e n<num>:t w e l v e<num>	0.9006587862968445
+t e n<num>:e l e v e n<num>	0.8991170525550842
+s a y<vblex>:t e l l<vblex>	0.7224746346473694
+s e v e n t e e n<num>:n i n e t e e n<num>	0.9278790354728699
+s e v e n t e e n<num>:f o u r t e e n<num>	0.9237464070320129
+s e v e n t e e n<num>:f i f t e e n<num>	0.9102599620819092
+s e v e n t e e n<num>:e i g h t e e n<num>	0.9087538719177246
+s e v e n t e e n<num>:s i x t e e n<num>	0.9087271094322205
+s e v e n t e e n<num>:t h i r t e e n<num>	0.9041071534156799
+s e v e n t e e n<num>:e l e v e n<num>	0.8945796489715576
+h u n d r e d<num>:t h o u s a n d<num>	0.8952497243881226
+g o<vblex>:c o m e<vblex>	0.7895439863204956
+g o<vblex>:s t a y<vblex>	0.706595242023468
+g o<vblex>:t a k e<vblex>	0.70622718334198
+t h o u s a n d<num>:h u n d r e d<num>	0.8952497839927673
+a l l<prn>:m a n y<adv>	0.7592363357543945
+e l e v e n<num>:n i n e<num>	0.9333320260047913
+e l e v e n<num>:t w e l v e<num>	0.9312081933021545
+e l e v e n<num>:f o u r t e e n<num>	0.9304139018058777
+e l e v e n<num>:t h i r t e e n<num>	0.9277766942977905
+e l e v e n<num>:f i f t e e n<num>	0.9203646779060364
+e l e v e n<num>:s i x t e e n<num>	0.9147563576698303
+e l e v e n<num>:e i g h t e e n<num>	0.9024987816810608
+e l e v e n<num>:t e n<num>	0.8991169929504395
+p u t<vblex>:b r i n g<vblex>	0.7377716302871704
+s i x t e e n<num>:f o u r t e e n<num>	0.9649190902709961
+s i x t e e n<num>:e i g h t e e n<num>	0.9559309482574463
+s i x t e e n<num>:f i f t e e n<num>	0.9517096877098083
+s i x t e e n<num>:t h i r t e e n<num>	0.9451066255569458
+s i x t e e n<num>:t w e l v e<num>	0.9413931965827942
+s i x t e e n<num>:n i n e t e e n<num>	0.9228222966194153
+s i n g<vblex>:s o n g<n>	0.6127372980117798
+f r i g h t e n<vblex>:s c a r e<vblex>	0.7121139168739319
+s c a r e<vblex>:f r i g h t e n<vblex>	0.7121138572692871
+f i n d<vblex>:s e e<vblex>	0.7059271931648254
+t h i s<prn>:t h i n g<n>	0.732893168926239
+t h i s<prn>:t h a t<prn>	0.6952489614486694
+t h i s<prn>:s u c h<prn>	0.6898550987243652
+p e r s o n<n>:m a n<n>	0.7203925848007202
+s e e<vblex>:f i n d<vblex>	0.7059271335601807
+s e e<vblex>:t e l l<vblex>	0.6879336833953857
+s e e<vblex>:h e a r<vblex>	0.6845276951789856
+e v e r y<prn>:o n e<num>	0.6788016557693481
+w h a t<prn>:h o w<adv>	0.7551453709602356
+t h a t<prn>:w h i c h<prn>	0.7640235424041748
+t h r e e<num>:f o u r<num>	0.9620062708854675
+t h r e e<num>:f i v e<num>	0.9465795159339905
+t h r e e<num>:t w o<num>	0.943717360496521
+t h r e e<num>:n i n e<num>	0.8837621808052063
+t h r e e<num>:t e n<num>	0.8479586839675903
+t h r e e<num>:t w e l v e<num>	0.8379465937614441
+t h r e e<num>:e l e v e n<num>	0.8348283171653748
+c h i l d<n>:m o t h e r<n>	0.7654839754104614
+f i f t e e n<num>:f o u r t e e n<num>	0.9565398693084717
+f i f t e e n<num>:s i x t e e n<num>	0.9517096281051636
+f i f t e e n<num>:t w e l v e<num>	0.9432223439216614
+f i f t e e n<num>:e i g h t e e n<num>	0.9403795599937439
+f i f t e e n<num>:t h i r t e e n<num>	0.93665611743927
+v e r y<adv>:p r e t t y<adj>	0.8239924311637878
+s h e p h e r d<n>:s h e e p<n>	0.6627037525177002
+f o u r<num>:t h r e e<num>	0.9620063304901123
+f o u r<num>:f i v e<num>	0.9609165191650391
+f o u r<num>:n i n e<num>	0.90550297498703
+f o u r<num>:t w o<num>	0.8977879285812378
+f o u r<num>:t w e l v e<num>	0.8592464923858643
+f o u r<num>:t e n<num>	0.8544851541519165
+f o u r<num>:e l e v e n<num>	0.8499352335929871
+l e a v e<vblex>:t a k e<vblex>	0.7068529725074768
+l e a v e<vblex>:g o<vblex>	0.661321222782135
+t h i n g<n>:t h i s<prn>	0.7328931093215942
+t h i n g<n>:t h i s<det>	0.7328931093215942
+f i v e<num>:f o u r<num>	0.9609165787696838
+f i v e<num>:t h r e e<num>	0.9465795159339905
+f i v e<num>:n i n e<num>	0.9453787207603455
+f i v e<num>:t e n<num>	0.912542998790741
+f i v e<num>:t w e l v e<num>	0.8914765119552612
+f i v e<num>:e l e v e n<num>	0.8816874027252197
+f i v e<num>:f i f t e e n<num>	0.8615737557411194
+h e a r t<n>:s o u l<n>	0.6728978753089905
+m a n g e r<n>:d o g<n>	0.5219069719314575
+e i g h t e e n<num>:s i x t e e n<num>	0.9559309482574463
+e i g h t e e n<num>:f o u r t e e n<num>	0.9499812126159668
+e i g h t e e n<num>:f i f t e e n<num>	0.9403795599937439
+e i g h t e e n<num>:n i n e t e e n<num>	0.9326024651527405
+e i g h t e e n<num>:t h i r t e e n<num>	0.9270961284637451
+e i g h t e e n<num>:t w e l v e<num>	0.9201871156692505
+o n e<num>:t w o<num>	0.7160369157791138
+o n e<num>:t h r e e<num>	0.7104451656341553
+o n e<num>:f o u r<num>	0.6978967189788818
+o n e<num>:e v e r y<prn>	0.6788015961647034
+o n e<num>:f i v e<num>	0.676530122756958
+s p e a k<vblex>:h e a r<vblex>	0.7151004672050476
+G e o r g e<np>:M i c h a e l<np>	0.7835434675216675
+c a t<n>:d o g<n>	0.7502297759056091
+t a k e<vblex>:l e a v e<vblex>	0.7068529725074768
+t a k e<vblex>:g o<vblex>	0.70622718334198
+t a k e<vblex>:b r i n g<vblex>	0.7023230791091919
+t h i r t e e n<num>:f o u r t e e n<num>	0.9627731442451477
+t h i r t e e n<num>:t w e l v e<num>	0.9483366012573242
+t h i r t e e n<num>:s i x t e e n<num>	0.9451066851615906
+t h i r t e e n<num>:f i f t e e n<num>	0.9366561770439148
+t h i r t e e n<num>:e l e v e n<num>	0.9277766346931458
+t h i r t e e n<num>:e i g h t e e n<num>	0.9270960688591003
+t h i r t e e n<num>:n i n e t e e n<num>	0.9115200638771057
+p l a c e<n>:p u t<vblex>	0.6825528740882874
+y o u n g e r<n>:e l d e r<n>	0.6966567635536194
+n e i g h b o r<n>:f r i e n d<n>	0.6556114554405212
+s t a r t<vblex>:e n d<n>	0.7610543966293335
+t e l l<vblex>:s a y<vblex>	0.7224746346473694
+e n d<n>:s t a r t<vblex>	0.7610544562339783
+s t a y<vblex>:g o<vblex>	0.706595242023468
+c o m i n g<n>:c o m e<vblex>	0.7763836979866028
+y e a r<n>:d a y<n>	0.7446247935295105
+n i n e t e e n<num>:e i g h t e e n<num>	0.9326024651527405
+n i n e t e e n<num>:f o u r t e e n<num>	0.929770290851593
+n i n e t e e n<num>:s e v e n t e e n<num>	0.9278789758682251
+n i n e t e e n<num>:s i x t e e n<num>	0.9228222370147705
+n i n e t e e n<num>:f i f t e e n<num>	0.9193578362464905
+n i n e t e e n<num>:t h i r t e e n<num>	0.9115200042724609
+n i n e<num>:f i v e<num>	0.9453787803649902
+n i n e<num>:t w e l v e<num>	0.9341481924057007
+n i n e<num>:e l e v e n<num>	0.9333321452140808
+n i n e<num>:f o u r t e e n<num>	0.9173673987388611
+n i n e<num>:t h i r t e e n<num>	0.9092018008232117
+n i n e<num>:f o u r<num>	0.9055030345916748
+n i n e<num>:t e n<num>	0.9047265648841858
+d a y<n>:y e a r<n>	0.7446247935295105
+J o s e p h<np>:M i c h a e l<np>	0.786504328250885
+t h i s<det>:t h i n g<n>	0.732893168926239
+t h i s<det>:t h a t<prn>	0.6952489614486694
+t h i s<det>:s u c h<prn>	0.6898550987243652
+s u c h<prn>:t h i s<prn>	0.6898550391197205
+s u c h<prn>:t h i s<det>	0.6898550391197205
+s u c h<prn>:a l l<prn>	0.6613214015960693
+s k y<n>:m o o n<n>	0.648689329624176
+t w e l v e<num>:f o u r t e e n<num>	0.95369553565979
+t w e l v e<num>:t h i r t e e n<num>	0.948336660861969
+t w e l v e<num>:f i f t e e n<num>	0.9432224035263062
+t w e l v e<num>:s i x t e e n<num>	0.9413931965827942
+t w e l v e<num>:n i n e<num>	0.9341481924057007
+t w e l v e<num>:e l e v e n<num>	0.9312081933021545
+t w e l v e<num>:e i g h t e e n<num>	0.9201871156692505
+m o t h e r<n>:f a t h e r<n>	0.88395094871521
+m o t h e r<n>:s o n<n>	0.7833118438720703
+m o t h e r<n>:c h i l d<n>	0.7654840350151062
+c o m e<vblex>:g o<vblex>	0.7895439863204956
+c o m e<vblex>:c o m i n g<n>	0.7763837575912476
+c o m e<vblex>:b r i n g<vblex>	0.7013301253318787

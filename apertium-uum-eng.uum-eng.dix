@@ -116,136 +116,135 @@
    <section id="main" type="standard">
 
       <!-- Nouns -->
-      <e><p><l>баш<s n="n"/></l>        <r>head<s n="n"/></r></p></e>
-      <e><p><l>мельэм<s n="n"/></l>     <r>comfort<s n="n"/></r></p></e>
-      <e><p><l>бӱйӱгӱ<s n="n"/></l>     <r>elder<s n="n"/></r></p></e>
-      <e><p><l>ортанҗысы<s n="n"/></l>  <r>middle<s n="n"/></r></p></e>
-      <e><p><l>кичиги<s n="n"/></l>     <r>junior<s n="n"/></r></p></e>
-      <e><p><l>бешик<s n="n"/></l>      <r>crib<s n="n"/></r></p></e>
-      <e><p><l>дӱнйа<s n="n"/></l>      <r>world<s n="n"/></r></p></e>
-      <e><p><l>келиш<s n="n"/></l>      <r>coming<s n="n"/></r></p></e>
-      <e><p><l>оҗа<s n="n"/></l>        <r>man<s n="n"/></r></p></e>
-      <e><p><l>пул<s n="n"/></l>        <r>spangle<s n="n"/></r></p></e>
-      <e><p><l>хапу<s n="n"/></l>       <r>door<s n="n"/></r></p></e>
-      <e><p><l>җеннет<s n="n"/></l>     <r>heaven<s n="n"/></r></p></e>
-      <e><p><l>йундуз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
-      <e><p><l>учхун<s n="n"/></l>      <r>spark<s n="n"/></r></p></e>
-      <e><p><l>гӧңӱль<s n="n"/></l>     <r>relief<s n="n"/></r></p></e>
-      <e><p><l>тӱрк<s n="n"/></l>       <r>song<s n="n"/></r></p></e>
-      <e><p><l>чобан<s n="n"/></l>       <r>shepherd<s n="n"/></r></p></e>
-      <e><p><l>ышхын<s n="n"/></l>       <r>light<s n="n"/></r></p></e>
-      <e><p><l>доғуш<s n="n"/></l>       <r>birth<s n="n"/></r></p></e>
-      <e><p><l>кӱн<b/>доғуш<s n="n"/></l>        <r>east<s n="n"/></r></p></e>
-      <e><p><l>вахыт<s n="n"/></l>        <r>time<s n="n"/></r></p></e>
-      <e><p><l>бағыш<s n="n"/></l>        <r>gift<s n="n"/></r></p></e>
-      <e><p><l>башлавужу<s n="n"/></l>  <r>founder<s n="n"/></r></p></e>
-      <e><p><l>чӧль<s n="n"/></l>       <r>field<s n="n"/></r></p></e>
-      <e><p><l>рука<s n="n"/></l>       <r>hand<s n="n"/></r></p></e>
-      <e><p><l>йасла<s n="n"/></l>      <r>manger<s n="n"/></r></p></e>
-      <e><p><l>пичен<s n="n"/></l>      <r>hay<s n="n"/></r></p></e>
-      <e><p><l>йылдыз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
-      <e><p><l>кӧй<s n="n"/></l>        <r>village<s n="n"/></r></p></e>
-      <e><p><l>гӧнлӱм<s n="n"/></l>     <r>heart<s n="n"/></r></p></e>
-      <e><p><l>севда<s n="n"/></l>      <r>love<s n="n"/></r></p></e>
-      <e><p><l>чырай<s n="n"/></l>      <r>face<s n="n"/></r></p></e>
-      <e><p><l>чырай<s n="n"/></l>      <r>expression<s n="n"/></r></p></e>
-      <e><p><l>чырай<s n="n"/></l>      <r>complexion<s n="n"/></r></p></e>
-      <e><p><l>айахташ<s n="n"/></l>    <r>friend<s n="n"/></r></p></e>
-      <e><p><l>үй<s n="n"/></l>         <r>house<s n="n"/></r></p></e>
       <e><p><l>абла<s n="n"/></l>       <r>older<b/>sister<s n="n"/></r></p></e>
       <e><p><l>абла<s n="n"/></l>       <r>sister<s n="n"/></r></p></e>
-      <e><p><l>аға<s n="n"/></l>        <r>older<b/>brother<s n="n"/></r></p></e>
-      <e><p><l>аға<s n="n"/></l>        <r>brother<s n="n"/></r></p></e>
       <e><p><l>адам<s n="n"/></l>       <r>person<s n="n"/></r></p></e>
-      <e><p><l>ай<s n="n"/></l>         <r>moon<s n="n"/></r></p></e>
+      <e><p><l>азиз<s n="n"/></l>       <r>holy<s n="n"/></r></p></e>
       <e><p><l>ай<s n="n"/></l>         <r>month<s n="n"/></r></p></e>
+      <e><p><l>ай<s n="n"/></l>         <r>moon<s n="n"/></r></p></e>
       <e><p><l>ай<s n="n"/></l>         <r>saint<s n="n"/></r></p></e>
+      <e><p><l>айах<s n="n"/></l>       <r>foot<s n="n"/></r></p></e>
+      <e><p><l>айах<s n="n"/></l>       <r>paw<s n="n"/></r></p></e>
+      <e><p><l>айах<s n="n"/></l>       <r>leg<s n="n"/></r></p></e>
+      <e><p><l>айахташ<s n="n"/></l>    <r>friend<s n="n"/></r></p></e>
       <e><p><l>аллах<s n="n"/></l>      <r>God<s n="n"/></r></p></e>
-      <e><p><l>ан<s n="n"/></l>         <r>moment<s n="n"/></r></p></e>
+      <e><p><l>алтын<s n="n"/></l>      <r>gold<s n="n"/></r></p></e>
       <e><p><l>ан<s n="n"/></l>         <r>instant<s n="n"/></r></p></e>
+      <e><p><l>ан<s n="n"/></l>         <r>moment<s n="n"/></r></p></e>
       <e><p><l>ана<s n="n"/></l>        <r>mother<s n="n"/></r></p></e>
       <e><p><l>ана<s n="n"/></l>        <r>old<b/>lady<s n="n"/></r></p></e>
+      <e><p><l>астʼер<s n="n"/></l>     <r>army<s n="n"/></r></p></e>
+      <e><p><l>астʼер<s n="n"/></l>     <r>soldier<s n="n"/></r></p></e>
       <e><p><l>ат<s n="n"/></l>         <r>horse<s n="n"/></r></p></e>
       <e><p><l>ат<s n="n"/></l>         <r>name<s n="n"/></r></p></e>
-      <e><p><l>ата<s n="n"/></l>        <r>father<s n="n"/></r></p></e>
       <e><p><l>ата<s n="n"/></l>        <r>ancestor<s n="n"/></r></p></e>
+      <e><p><l>ата<s n="n"/></l>        <r>father<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>cost<s n="n"/></r></p></e>
+      <e><p><l>ах<s n="n"/></l>         <r>price<s n="n"/></r></p></e>
       <e><p><l>ах<s n="n"/></l>         <r>remuneration<s n="n"/></r></p></e>
       <e><p><l>ах<s n="n"/></l>         <r>salary<s n="n"/></r></p></e>
-      <e><p><l>ах<s n="n"/></l>         <r>price<s n="n"/></r></p></e>
-      <e><p><l>ах<s n="n"/></l>         <r>cost<s n="n"/></r></p></e>
       <e><p><l>ах<s n="n"/></l>         <r>value<s n="n"/></r></p></e>
-      <e><p><l>алтын<s n="n"/></l>      <r>gold<s n="n"/></r></p></e>
-      <e><p><l>баа<s n="n"/></l>        <r>price<s n="n"/></r></p></e>
-      <e><p><l>баа<s n="n"/></l>        <r>cost<s n="n"/></r></p></e>
-      <e><p><l>баа<s n="n"/></l>        <r>value<s n="n"/></r></p></e>
-      <e><p><l>базар<s n="n"/></l>      <r>market<s n="n"/></r></p></e>
+      <e><p><l>аға<s n="n"/></l>        <r>brother<s n="n"/></r></p></e>
+      <e><p><l>аға<s n="n"/></l>        <r>older<b/>brother<s n="n"/></r></p></e>
       <e><p><l>базар<s n="n"/></l>      <r>Sunday<s n="n"/></r></p></e>
-      <e><p><l>баҗы<s n="n"/></l>       <r>younger<b/>sister<s n="n"/></r></p></e>
-      <e><p><l>баҗы<s n="n"/></l>       <r>sister<s n="n"/></r></p></e>
+      <e><p><l>базар<s n="n"/></l>      <r>market<s n="n"/></r></p></e>
       <e><p><l>бал<s n="n"/></l>        <r>honey<s n="n"/></r></p></e>
       <e><p><l>бала<s n="n"/></l>       <r>child<s n="n"/></r></p></e>
       <e><p><l>бахчы<s n="n"/></l>      <r>garden<s n="n"/></r></p></e>
+      <e><p><l>баш<s n="n"/></l>        <r>head<s n="n"/></r></p></e>
+      <e><p><l>башлавуҗу<s n="n"/></l>  <r>founder<s n="n"/></r></p></e>
+      <e><p><l>баға<s n="n"/></l>       <r>cost<s n="n"/></r></p></e>
+      <e><p><l>баға<s n="n"/></l>       <r>price<s n="n"/></r></p></e>
+      <e><p><l>баға<s n="n"/></l>       <r>value<s n="n"/></r></p></e>
+      <e><p><l>бағыш<s n="n"/></l>      <r>gift<s n="n"/></r></p></e>
+      <e><p><l>баҗы<s n="n"/></l>       <r>sister<s n="n"/></r></p></e>
+      <e><p><l>баҗы<s n="n"/></l>       <r>younger<b/>sister<s n="n"/></r></p></e>
+      <e><p><l>бешик<s n="n"/></l>      <r>crib<s n="n"/></r></p></e>
+      <e><p><l>бӱйӱгӱ<s n="n"/></l>     <r>elder<s n="n"/></r></p></e>
+      <e><p><l>бӱльбӱль<s n="n"/></l>   <r>nightingale<s n="n"/></r></p></e>
+      <e><p><l>вахт<s n="n"/></l>       <r>time<s n="n"/></r></p></e>
+      <e><p><l>вахт<s n="n"/></l>       <r>happiness<s n="n"/></r></p></e>
+      <e><p><l>вахт<s n="n"/></l>       <r>fate<s n="n"/></r></p></e>
+      <e><p><l>гӧнлӱм<s n="n"/></l>     <r>heart<s n="n"/></r></p></e>
+      <e><p><l>гӧңӱль<s n="n"/></l>     <r>relief<s n="n"/></r></p></e>
       <e><p><l>гӱль<s n="n"/></l>       <r>flower<s n="n"/></r></p></e>
+      <e><p><l>доғуш<s n="n"/></l>      <r>birth<s n="n"/></r></p></e>
+      <e><p><l>дӱнйа<s n="n"/></l>      <r>world<s n="n"/></r></p></e>
       <e><p><l>завот<s n="n"/></l>      <r>factory<s n="n"/></r></p></e>
-      <!-- Duplicate word #1 Interior/Stomach -->
-      <e><p><l>ич<s n="n"/></l>         <r>stomach<s n="n"/></r></p></e>
+      <e><p><l>игит<s n="n"/></l>       <r>knight<s n="n"/></r></p></e>
       <e><p><l>ич<s n="n"/></l>         <r>interior<s n="n"/></r></p></e>
+      <e><p><l>ич<s n="n"/></l>         <r>stomach<s n="n"/></r></p></e>
+      <e><p><l>иш<s n="n"/></l>         <r>work<s n="n"/></r></p></e>
+      <e><p><l>йарых<s n="n"/></l>      <r>moonlight<s n="n"/></r></p></e>
+      <e><p><l>йасла<s n="n"/></l>      <r>manger<s n="n"/></r></p></e>
+      <e><p><l>йасла<s n="n"/></l>      <r>manger<s n="n"/></r></p></e>
       <e><p><l>йер<s n="n"/></l>        <r>place<s n="n"/></r></p></e>
       <e><p><l>йол<s n="n"/></l>        <r>path<s n="n"/></r></p></e>
-      <e><p><l>йӱз<s n="n"/></l>        <r>face<s n="n"/></r></p></e>
+      <e><p><l>йундуз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
       <e><p><l>йыл<s n="n"/></l>        <r>year<s n="n"/></r></p></e>
+      <e><p><l>йылан<s n="n"/></l>      <r>snake<s n="n"/></r></p></e>
+      <e><p><l>йылдыз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
       <e><p><l>йырла<s n="n"/></l>      <r>song<s n="n"/></r></p></e>
+      <e><p><l>йӱз<s n="n"/></l>        <r>face<s n="n"/></r></p></e>
+      <e><p><l>йӱнах<s n="n"/></l>      <r>sin<s n="n"/></r></p></e>
+      <e><p><l>келиш<s n="n"/></l>      <r>coming<s n="n"/></r></p></e>
+      <e><p><l>кичиги<s n="n"/></l>     <r>smaller<s n="n"/></r></p></e>
+      <e><p><l>кичиги<s n="n"/></l>     <r>younger<s n="n"/></r></p></e>
+      <e><p><l>кичиги<s n="n"/></l>     <r>junior<s n="n"/></r></p></e>
       <e><p><l>кӧз<s n="n"/></l>        <r>eye<s n="n"/></r></p></e>
+      <e><p><l>кӧй<s n="n"/></l>        <r>village<s n="n"/></r></p></e>
       <e><p><l>кӧк<s n="n"/></l>        <r>sky<s n="n"/></r></p></e>
       <e><p><l>кӧпек<s n="n"/></l>      <r>dog<s n="n"/></r></p></e>
-      <!-- Duplicate word #2 Day/Sun -->
+      <e><p><l>кӱн<b/>доғуш<s n="n"/></l>        <r>east<s n="n"/></r></p></e>
       <e><p><l>кӱн<s n="n"/></l>        <r>day<s n="n"/></r></p></e>
       <e><p><l>кӱн<s n="n"/></l>        <r>sun<s n="n"/></r></p></e>
-      <e><p><l>иш<s n="n"/></l>         <r>work<s n="n"/></r></p></e>
       <e><p><l>мелайик<s n="n"/></l>    <r>angel<s n="n"/></r></p></e>
+      <e><p><l>мельэм<s n="n"/></l>     <r>comfort<s n="n"/></r></p></e>
+      <e><p><l>мирон<s n="n"/></l>      <r>myrrh<s n="n"/></r></p></e>
       <e><p><l>мышых<s n="n"/></l>      <r>cat<s n="n"/></r></p></e>
-      <e><p><l>оғул<s n="n"/></l>       <r>son<s n="n"/></r></p></e>
-      <!-- Duplicate word #3 Grass/Fire -->
-      <e><p><l>от<s n="n"/></l>         <r>grass<s n="n"/></r></p></e>
+      <e><p><l>ортанҗысы<s n="n"/></l>  <r>middle<s n="n"/></r></p></e>
       <e><p><l>от<s n="n"/></l>         <r>fire<s n="n"/></r></p></e>
+      <e><p><l>от<s n="n"/></l>         <r>grass<s n="n"/></r></p></e>
+      <e><p><l>оғул<s n="n"/></l>       <r>son<s n="n"/></r></p></e>
+      <e><p><l>оҗа<s n="n"/></l>        <r>man<s n="n"/></r></p></e>
+      <e><p><l>падышах<s n="n"/></l>    <r>king<s n="n"/></r></p></e>
+      <e><p><l>пичен<s n="n"/></l>      <r>hay<s n="n"/></r></p></e>
+      <e><p><l>пул<s n="n"/></l>        <r>spangle<s n="n"/></r></p></e>
       <e><p><l>пычах<s n="n"/></l>      <r>knife<s n="n"/></r></p></e>
+      <e><p><l>рука<s n="n"/></l>       <r>hand<s n="n"/></r></p></e>
+      <e><p><l>севда<s n="n"/></l>      <r>love<s n="n"/></r></p></e>
       <e><p><l>сон<s n="n"/></l>        <r>end<s n="n"/></r></p></e>
       <e><p><l>су<s n="n"/></l>         <r>water<s n="n"/></r></p></e>
-      <e><p><l>тиш<s n="n"/></l>        <r>tooth<s n="n"/></r></p></e>
       <e><p><l>тʼеди<s n="n"/></l>      <r>cat<s n="n"/></r></p></e>
+      <e><p><l>тахт<s n="n"/></l>       <r>throne<s n="n"/></r></p></e>
+      <e><p><l>тиш<s n="n"/></l>        <r>tooth<s n="n"/></r></p></e>
+      <e><p><l>тӱрк<s n="n"/></l>       <r>song<s n="n"/></r></p></e>
+      <e><p><l>учхун<s n="n"/></l>      <r>spark<s n="n"/></r></p></e>
+      <e><p><l>халх<s n="n"/></l>       <r>people<s n="n"/></r></p></e>
+      <e><p><l>хапу<s n="n"/></l>       <r>door<s n="n"/></r></p></e>
+      <e><p><l>хапӱ<s n="n"/></l>       <r>doors<s n="n"/></r></p></e>
       <e><p><l>хар<s n="n"/></l>        <r>snow<s n="n"/></r></p></e>
+      <e><p><l>хоз<s n="n"/></l>        <r>lamb<s n="n"/></r></p></e>
+      <e><p><l>хой<s n="n"/></l>        <r>sheep<s n="n"/></r></p></e>
       <e><p><l>хооншу<s n="n"/></l>     <r>neighbor<s n="n"/></r></p></e>
       <e><p><l>хурйух<s n="n"/></l>     <r>tail<s n="n"/></r></p></e>
       <e><p><l>хыз<s n="n"/></l>        <r>girl<s n="n"/></r></p></e>
-      <e><p><l>ший<s n="n"/></l>        <r>thing<s n="n"/></r></p></e>
-      <e><p><l>эв<s n="n"/></l>         <r>house<s n="n"/></r></p></e>
-      <e><p><l>эль<s n="n"/></l>        <r>hand<s n="n"/></r></p></e>
+      <e><p><l>чобан<s n="n"/></l>      <r>shepherd<s n="n"/></r></p></e>
+      <e><p><l>чырай<s n="n"/></l>      <r>complexion<s n="n"/></r></p></e>
+      <e><p><l>чырай<s n="n"/></l>      <r>expression<s n="n"/></r></p></e>
+      <e><p><l>чырай<s n="n"/></l>      <r>face<s n="n"/></r></p></e>
       <e><p><l>чӧль<s n="n"/></l>       <r>field<s n="n"/></r></p></e>
-      <e><p><l>йылдыз<s n="n"/></l>     <r>star<s n="n"/></r></p></e>
-      <e><p><l>башлавужу<s n="n"/></l>  <r>founder<s n="n"/></r></p></e>
-      <e><p><l>кӧй<s n="n"/></l>        <r>village<s n="n"/></r></p></e>
-      <e><p><l>йасла<s n="n"/></l>      <r>manger<s n="n"/></r></p></e>
-      <e><p><l>пичен<s n="n"/></l>      <r>hay<s n="n"/></r></p></e>
-      <e><p><l>игит<s n="n"/></l>       <r>knight<s n="n"/></r></p></e>
-      <e><p><l>йарых<s n="n"/></l>      <r>moonlight<s n="n"/></r></p></e>
-      <e><p><l>ышых<s n="n"/></l>       <r>light<s n="n"/></r></p></e>
-      <e><p><l>азиз<s n="n"/></l>       <r>holy<s n="n"/></r></p></e>
-      <e><p><l>тӱрк<s n="n"/></l>       <r>song<s n="n"/></r></p></e>
-      <e><p><l>кигичи<s n="n"/></l>     <r>smaller<s n="n"/></r></p></e>
-      <e><p><l>кигичи<s n="n"/></l>     <r>younger<s n="n"/></r></p></e>
-      <e><p><l>тахт<s n="n"/></l>       <r>throne<s n="n"/></r></p></e>
-      <e><p><l>халх<s n="n"/></l>       <r>people<s n="n"/></r></p></e>
-      <e><p><l>хоз<s n="n"/></l>        <r>lamb<s n="n"/></r></p></e>
-      <e><p><l>падышах<s n="n"/></l>    <r>king<s n="n"/></r></p></e>
-      <e><p><l>бӱльбӱль<s n="n"/></l>   <r>nightingale<s n="n"/></r></p></e>
-      <e><p><l>астʼер<s n="n"/></l>     <r>army<s n="n"/></r></p></e>
-      <e><p><l>астʼер<s n="n"/></l>     <r>soldier<s n="n"/></r></p></e>
-      <e><p><l>хапӱ<s n="n"/></l>       <r>doors<s n="n"/></r></p></e>
-      <e><p><l>йӱнах<s n="n"/></l>      <r>sin<s n="n"/></r></p></e>
-      <e><p><l>җан<s n="n"/></l>        <r>soul<s n="n"/></r></p></e>
       <e><p><l>шаэр<s n="n"/></l>       <r>city<s n="n"/></r></p></e>
-      <e><p><l>мирон<s n="n"/></l>      <r>myrrh<s n="n"/></r></p></e>
-      <e><p><l>хой<s n="n"/></l>        <r>sheep<s n="n"/></r></p></e>
+      <e><p><l>ший<s n="n"/></l>        <r>thing<s n="n"/></r></p></e>
+      <e><p><l>ышхын<s n="n"/></l>      <r>light<s n="n"/></r></p></e>
+      <e><p><l>ышых<s n="n"/></l>       <r>light<s n="n"/></r></p></e>
+      <e><p><l>эв<s n="n"/></l>         <r>cottage<s n="n"/></r></p></e>
+      <e><p><l>эв<s n="n"/></l>         <r>dwelling<s n="n"/></r></p></e>
+      <e><p><l>эв<s n="n"/></l>         <r>house<s n="n"/></r></p></e>
+      <e><p><l>эв<s n="n"/></l>         <r>room<s n="n"/></r></p></e>
+      <e><p><l>эль<s n="n"/></l>        <r>hand<s n="n"/></r></p></e>
+      <e><p><l>җан<s n="n"/></l>        <r>soul<s n="n"/></r></p></e>
+      <e><p><l>җеннет<s n="n"/></l>     <r>heaven<s n="n"/></r></p></e>
 
       <!-- Proper Names + Locations, As Added By Alina  -->
       <e><p><l>Йосиф<s n="np"/><s n="ant"/><s n="m"/></l>          <r>Joseph<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>

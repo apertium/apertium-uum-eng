@@ -4,7 +4,7 @@ import gensim.downloader as api
 
 CURR_DIR = os.path.dirname(os.path.abspath(__file__))
 PATH = os.path.abspath(os.path.join(CURR_DIR, "../../"))
-OUTPUT_FILE = os.path.join(CURR_DIR, "embeds-python.tsv")
+OUTPUT_FILE = os.path.join(CURR_DIR, "eng-uum.embeddings.tsv")
 
 command = f"cd {PATH} && lt-print -H uum-eng.autobil.bin | hfst-txt2fst | hfst-invert | hfst-expand -c0"
 output = os.popen(command).read()

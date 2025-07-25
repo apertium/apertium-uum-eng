@@ -162,7 +162,9 @@
       <e><p><l>ай<s n="n"/></l>         <r>saint<s n="n"/></r></p></e>
       <e><p><l>аллах<s n="n"/></l>      <r>God<s n="n"/></r></p></e>
       <e><p><l>ан<s n="n"/></l>         <r>moment<s n="n"/></r></p></e>
+      <e><p><l>ан<s n="n"/></l>         <r>instant<s n="n"/></r></p></e>
       <e><p><l>ана<s n="n"/></l>        <r>mother<s n="n"/></r></p></e>
+      <e><p><l>ана<s n="n"/></l>        <r>old<b/>lady<s n="n"/></r></p></e>
       <e><p><l>ат<s n="n"/></l>         <r>horse<s n="n"/></r></p></e>
       <e><p><l>ат<s n="n"/></l>         <r>name<s n="n"/></r></p></e>
       <e><p><l>ата<s n="n"/></l>        <r>father<s n="n"/></r></p></e>
@@ -173,7 +175,13 @@
       <e><p><l>ах<s n="n"/></l>         <r>cost<s n="n"/></r></p></e>
       <e><p><l>ах<s n="n"/></l>         <r>value<s n="n"/></r></p></e>
       <e><p><l>алтын<s n="n"/></l>      <r>gold<s n="n"/></r></p></e>
+      <e><p><l>баа<s n="n"/></l>        <r>price<s n="n"/></r></p></e>
+      <e><p><l>баа<s n="n"/></l>        <r>cost<s n="n"/></r></p></e>
+      <e><p><l>баа<s n="n"/></l>        <r>value<s n="n"/></r></p></e>
       <e><p><l>базар<s n="n"/></l>      <r>market<s n="n"/></r></p></e>
+      <e><p><l>базар<s n="n"/></l>      <r>Sunday<s n="n"/></r></p></e>
+      <e><p><l>баҗы<s n="n"/></l>       <r>younger<b/>sister<s n="n"/></r></p></e>
+      <e><p><l>баҗы<s n="n"/></l>       <r>sister<s n="n"/></r></p></e>
       <e><p><l>бал<s n="n"/></l>        <r>honey<s n="n"/></r></p></e>
       <e><p><l>бала<s n="n"/></l>       <r>child<s n="n"/></r></p></e>
       <e><p><l>бахчы<s n="n"/></l>      <r>garden<s n="n"/></r></p></e>
@@ -231,6 +239,7 @@
       <e><p><l>падышах<s n="n"/></l>    <r>king<s n="n"/></r></p></e>
       <e><p><l>бӱльбӱль<s n="n"/></l>   <r>nightingale<s n="n"/></r></p></e>
       <e><p><l>астʼер<s n="n"/></l>     <r>army<s n="n"/></r></p></e>
+      <e><p><l>астʼер<s n="n"/></l>     <r>soldier<s n="n"/></r></p></e>
       <e><p><l>хапӱ<s n="n"/></l>       <r>doors<s n="n"/></r></p></e>
       <e><p><l>йӱнах<s n="n"/></l>      <r>sin<s n="n"/></r></p></e>
       <e><p><l>җан<s n="n"/></l>        <r>soul<s n="n"/></r></p></e>

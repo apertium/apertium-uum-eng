@@ -42,7 +42,7 @@ def helper(word):
     match = re.match(r"^(.*?)(<.*?>)?$", word)
     if match:
         base = match.group(1)
-        tag = match.group(2) if match.group(2) else ""
+        tag = " " + match.group(2) if match.group(2) else ""
     else:
         base = word
         tag = ""
@@ -52,13 +52,13 @@ def helper(word):
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     for word in english_words:
         base_word = re.sub(r"<.*?>", "", word)
-        if base_word in model.key_to_index:
-            similar_words = model.most_similar(base_word, topn=topn)
-            for sim_word, score in similar_words:
-                if score >= threshold:
-                    for candidate in english_words:
-                        if re.sub(r"<.*?>", "", candidate) == sim_word and len(sim_word) > 1:
-                            spaced_word, tag_word = helper(word)
-                            spaced_candidate, tag_candidate = helper(candidate)
-                            if tag_word != "<num>" and tag_candidate != "<num>":
-                                f.write(f"{spaced_word}:{spaced_candidate}\t{score}\n")
+        if base_word not in model.key_to_index:
+            continue
+        for sim_word, score in model.most_similar(base_word, topn=topn):
+            if score < threshold or len(sim_word) <= 1:
+                continue
+            spaced_word, tag_word = helper(word)
+            spaced_candidate, tag_candidate = helper(sim_word)
+            if tag_word == "<num>" or tag_candidate == "<num>":
+                continue
+            f.write(f"{spaced_candidate}:{spaced_word}\t{score}\n")

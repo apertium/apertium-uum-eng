@@ -103,7 +103,7 @@ $(PREFIX2).automorf-untrimmed.bin: $(AP_SRC2)/$(LANG2).automorf.bin
 $(PREFIX2).automorf.bin: $(PREFIX2).automorf-untrimmed.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
-.deps/$(PREFIX2).embeddings-weighted.tsv: ./dev/embeddings/eng-uum.embeddings.tsv
+.deps/$(PREFIX2).embeddings-weighted.tsv: ./dev/embeddings/$(PREFIX2).embeddings.tsv
 	cat $< | awk -F'\t' '{ OFS=FS; $$NF=1- $$NF; }1' > $@
 
 $(PREFIX2).embeddings.hfst: .deps/$(PREFIX2).embeddings-weighted.tsv

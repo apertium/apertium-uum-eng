@@ -59,6 +59,7 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 continue
             spaced_word, tag_word = helper(word)
             spaced_candidate, tag_candidate = helper(sim_word)
-            if tag_word == "<num>" or tag_candidate == "<num>":
+            if tag_word.strip() == "<num>" or tag_candidate.strip() == "<num>":
                 continue
+
             f.write(f"{spaced_candidate}:{spaced_word}\t{score}\n")

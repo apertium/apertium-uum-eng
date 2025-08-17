@@ -162,15 +162,20 @@
       <e><p><l>бағыш<s n="n"/></l>      <r>gift<s n="n"/></r></p></e>
       <e><p><l>баҗы<s n="n"/></l>       <r>sister<s n="n"/></r></p></e>
       <e><p><l>баҗы<s n="n"/></l>       <r>younger<b/>sister<s n="n"/></r></p></e>
-      <e><p><l>бешик<s n="n"/></l>      <r>crib<s n="n"/></r></p></e>
-      <e><p><l>бӱйӱгӱ<s n="n"/></l>     <r>elder<s n="n"/></r></p></e>
+      <e><p><l>бешик<s n="n"/></l>      <r>cradle<s n="n"/></r></p></e>
+      <e><p><l>бӱйӱк<b/>апа<s n="n"/></l>  <r>older<b/>sister<s n="n"/></r></p></e>
+      <e><p><l>бӱйӱк<b/>аға<s n="n"/></l>  <r>older<b/>brother<s n="n"/></r></p></e>
       <e><p><l>бӱльбӱль<s n="n"/></l>   <r>nightingale<s n="n"/></r></p></e>
       <e><p><l>вахт<s n="n"/></l>       <r>time<s n="n"/></r></p></e>
       <e><p><l>вахт<s n="n"/></l>       <r>happiness<s n="n"/></r></p></e>
       <e><p><l>вахт<s n="n"/></l>       <r>fate<s n="n"/></r></p></e>
-      <e><p><l>гӧнлӱм<s n="n"/></l>     <r>heart<s n="n"/></r></p></e>
       <e><p><l>гӧңӱль<s n="n"/></l>     <r>relief<s n="n"/></r></p></e>
+      <e><p><l>гӧңӱль<s n="n"/></l>     <r>heart<s n="n"/></r></p></e>
+      <e><p><l>гӧңӱль<s n="n"/></l>     <r>soul<s n="n"/></r></p></e>
+      <e><p><l>гӧңӱль<s n="n"/></l>     <r>desire<s n="n"/></r></p></e>
+      <e><p><l>гӧңӱль<s n="n"/></l>     <r>mood<s n="n"/></r></p></e>
       <e><p><l>гӱль<s n="n"/></l>       <r>flower<s n="n"/></r></p></e>
+      <e><p><l>ғарип<s n="n"/></l>      <r>stranger<s n="n"/></r></p></e>
       <e><p><l>доғуш<s n="n"/></l>      <r>birth<s n="n"/></r></p></e>
       <e><p><l>дӱнйа<s n="n"/></l>      <r>world<s n="n"/></r></p></e>
       <e><p><l>завот<s n="n"/></l>      <r>factory<s n="n"/></r></p></e>
@@ -198,6 +203,7 @@
       <e><p><l>кӧй<s n="n"/></l>        <r>village<s n="n"/></r></p></e>
       <e><p><l>кӧк<s n="n"/></l>        <r>sky<s n="n"/></r></p></e>
       <e><p><l>кӧпек<s n="n"/></l>      <r>dog<s n="n"/></r></p></e>
+      <e><p><l>кӱль<s n="n"/></l>       <r>ash<s n="n"/></r></p></e>
       <e><p><l>кӱн<b/>доғуш<s n="n"/></l>        <r>east<s n="n"/></r></p></e>
       <e><p><l>кӱн<s n="n"/></l>        <r>day<s n="n"/></r></p></e>
       <e><p><l>кӱн<s n="n"/></l>        <r>sun<s n="n"/></r></p></e>
@@ -273,6 +279,20 @@
       <e><p><l>азиз<s n="adj"/></l>     <r>holy<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>гӱзель<s n="adj"/></l>   <r>pretty<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>бӱйӱк<s n="adj"/></l>    <r>big<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>great<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>great<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>high<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>tall<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>elder<s n="adj"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>main<s n="adj"/></r></p></e>
+      <e><p><l>бӱйӱк<s n="adj"/></l>    <r>chief<s n="adj"/></r></p></e>
+      <e><p><l>ғарип<s n="adj"/></l>    <r>poor<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>ғарип<s n="adj"/></l>    <r>unfortunate<s n="adj"/></r></p></e>
+      <e><p><l>доғру<s n="adj"/></l>    <r>straight<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>доғру<s n="adj"/></l>    <r>correct<s n="adj"/></r></p></e>
+      <e><p><l>доғру<s n="adj"/></l>    <r>true<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>доғру<s n="adj"/></l>    <r>direct<s n="adj"/></r></p></e>
+      <e><p><l>доғру<s n="adj"/></l>    <r>genuine<s n="adj"/></r></p></e>
       <e><p><l>харт<s n="adj"/></l>     <r>old<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>ахыллы<s n="adj"/></l>   <r>wise<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>дэли<s n="adj"/></l>     <r>crazy<s n="adj"/><s n="sint"/></r></p></e>
